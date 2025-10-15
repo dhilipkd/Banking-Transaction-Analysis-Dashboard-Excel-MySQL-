@@ -1,0 +1,640 @@
+customer_occupation,avg_income,avg_balance
+"Therapist, drama",137984.350000,4312.605000
+"Accounting technician",120887.284000,9823.302000
+"Careers adviser",119962.675000,12414.355000
+"General practice doctor",116129.247500,10815.148750
+"Financial trader",115663.310000,10993.201667
+"Advertising art director",115367.381667,9101.918333
+"Geologist, engineering",115235.800000,10945.480000
+"Psychotherapist, dance movement",114884.570000,14984.857500
+"Product manager",113394.690000,14649.565000
+"Aeronautical engineer",113136.138000,13418.886000
+"Psychologist, forensic",112263.689000,10344.108000
+"Scientist, research (life sciences)",111734.168333,10875.191667
+"Chemical engineer",111691.836250,8728.046250
+"Facilities manager",111058.937778,10428.358889
+"Risk analyst",110899.658333,14191.021667
+"Legal executive",110642.700000,12444.681667
+"Camera operator",110526.371429,8408.451429
+"Secondary school teacher",110213.586667,10885.388889
+"Nature conservation officer",110169.211111,9438.992222
+Physiotherapist,110124.657143,10483.101429
+"Art gallery manager",109851.978889,11204.721111
+"Engineer, drilling",109655.556667,10112.540000
+"Air broker",109626.476667,11604.088333
+"Designer, ceramics/pottery",109540.628750,11318.003750
+Curator,109465.695000,11126.106667
+"Recruitment consultant",109243.236667,12433.140000
+"Retail merchandiser",108647.831111,7560.105556
+"Maintenance engineer",107882.272857,3777.850000
+"Teacher, secondary school",107552.965000,13090.005000
+Barista,107521.776000,10489.583000
+"Sports therapist",107454.364444,9475.493333
+"Medical laboratory scientific officer",107389.783333,7925.026667
+"Government social research officer",107220.460000,13176.640000
+"Visual merchandiser",107219.984545,9558.134545
+"Designer, multimedia",106881.316000,10680.806000
+Psychiatrist,106401.205714,10650.541429
+"Industrial/product designer",106389.480000,11339.784286
+"Field seismologist",106323.429167,9610.466667
+"Data scientist",106315.614286,10120.861429
+"Teacher, primary school",106167.614667,11843.357333
+"Radio producer",106065.507333,11575.330667
+"Retail buyer",105822.166250,8925.937500
+"Commercial art gallery manager",105713.215556,8965.686667
+"Newspaper journalist",105637.060000,10110.672500
+"Regulatory affairs officer",105504.217692,8899.749231
+"Adult nurse",105124.490000,10822.065000
+Optometrist,104805.642857,10471.387143
+"Engineer, civil (consulting)",104757.749000,8771.624000
+"Fine artist",104606.508000,5383.378000
+"Chartered public finance accountant",104449.792000,8279.860000
+"Multimedia specialist",104387.826667,9464.117778
+"Company secretary",104323.411250,9614.168750
+"Scientific laboratory technician",104214.184000,8382.116000
+"Event organiser",104080.367143,9911.695714
+"Designer, fashion/clothing",103840.131250,10479.385000
+"Clinical embryologist",103823.736000,12062.660000
+"Surveyor, insurance",103754.930000,12651.038333
+Osteopath,103569.051538,8380.357692
+Acupuncturist,103483.705556,11507.194444
+"Engineer, structural",103415.788750,10078.317500
+"Merchandiser, retail",103152.563333,4314.586667
+"Buyer, industrial",103005.106667,16187.883333
+Ranger/warden,102888.232500,7954.723333
+"Science writer",102792.076154,13693.123846
+"Site engineer",102672.250000,5179.346000
+"Building services engineer",102644.162857,7620.447143
+"Environmental consultant",102344.665000,9410.997143
+Economist,102282.166000,9136.147000
+"Higher education lecturer",102006.511111,8968.261111
+"Graphic designer",101938.056250,12284.493750
+"Sales executive",101824.208571,11181.935714
+"Architectural technologist",101801.997778,10049.015556
+"Forensic psychologist",101725.676000,13562.428000
+"Human resources officer",101185.071111,10901.105556
+"Building surveyor",101096.344286,13273.567143
+Psychotherapist,101048.757000,7503.024000
+"Dance movement psychotherapist",101035.813333,9369.058333
+"Financial planner",101035.714615,9508.016923
+"Social worker",101020.327000,10914.955000
+Administrator,100956.630909,9960.249091
+"Technical sales engineer",100784.448667,11537.740000
+Phytotherapist,100777.678750,11022.946250
+"Primary school teacher",100628.053333,12023.268333
+Firefighter,100559.614000,12470.072000
+"Restaurant manager, fast food",100500.673636,6817.981818
+"Purchasing manager",100367.516000,9830.182000
+"Sport and exercise psychologist",100240.747500,8924.760000
+"Bonds trader",100179.200000,12645.991111
+"Technical author",100091.501667,7765.115000
+"Commercial/residential surveyor",99994.797500,15726.892500
+"Production designer, theatre/television/film",99985.808000,7331.790000
+"Physiological scientist",99919.370000,11221.276250
+"Holiday representative",99889.946000,3619.810000
+"Horticultural therapist",99856.716000,10368.328000
+"Administrator, local government",99776.637143,14620.482857
+"Probation officer",99714.408182,7318.434545
+"Claims inspector/assessor",99637.770000,9416.126667
+"Theatre stage manager",99535.728333,8690.005000
+"Cabin crew",99498.814615,12440.741538
+"Educational psychologist",99473.687000,8582.580000
+"Transport planner",99408.947143,9738.960000
+"Fitness centre manager",99396.098889,10476.123333
+"Scientist, biomedical",99212.850000,8702.596667
+"Immigration officer",99110.250000,7634.987500
+"Academic librarian",99083.118889,13969.795556
+"Engineer, water",99059.321250,9754.455000
+"Emergency planning/management officer",98915.520000,4611.940000
+"Engineer, biomedical",98753.462500,9425.700833
+Musician,98698.933333,7050.136667
+Chiropractor,98696.466250,9133.761250
+"Geneticist, molecular",98692.366667,11783.830000
+"Theme park manager",98659.732000,11390.932000
+"Multimedia programmer",98563.583333,9108.933333
+"Licensed conveyancer",98243.398333,8587.178333
+"Engineer, mining",98190.358571,9444.022857
+"Programmer, multimedia",98185.731111,14013.398889
+"Conservator, furniture",98161.427500,12226.002500
+"Field trials officer",98141.955833,9328.400833
+"Horticulturist, commercial",98097.437778,10061.020000
+"Communications engineer",98092.251250,11359.155000
+"Designer, textile",97915.574000,11986.012000
+"Water quality scientist",97875.278750,11709.626250
+Oncologist,97808.310000,13051.852000
+Proofreader,97766.245833,14095.596667
+"IT trainer",97468.955833,9514.882500
+"Insurance account manager",97456.842500,9014.378750
+"Magazine features editor",97438.922000,14271.064000
+"English as a second language teacher",97371.695000,11356.245000
+"Research officer, political party",97243.044444,11686.004444
+"Customer service manager",97186.364286,9373.817143
+Neurosurgeon,97122.071000,11360.675000
+"Investment banker, operational",97117.557000,8001.916000
+"Community arts worker",96863.413333,8128.522222
+"Engineer, petroleum",96784.627500,13884.550000
+"Engineer, materials",96780.475833,4683.086667
+"Magazine journalist",96706.783333,8995.723333
+"Engineer, electrical",96699.660000,10233.741667
+"Television camera operator",96660.960000,10472.372857
+"Barrister's clerk",96647.874167,11791.255000
+"Associate Professor",96612.280000,10127.877778
+"Mining engineer",96606.955385,10986.016154
+"Private music teacher",96588.576667,8175.833333
+"Engineer, communications",96547.818333,14225.400000
+"Clinical scientist, histocompatibility and immunogenetics",96526.566667,7670.397778
+"Accountant, chartered public finance",96515.690000,10442.042500
+Pharmacologist,96455.237143,7436.641429
+Mudlogger,96452.954545,9523.525455
+"Scientist, research (physical sciences)",96406.512500,13190.015000
+"Nurse, children's",96299.416667,6364.730000
+"Operations geologist",96272.376000,6851.056000
+"Environmental manager",96210.032500,10104.078750
+Secretary/administrator,96195.538333,7621.463333
+"Paediatric nurse",96143.277273,12441.551818
+"Stage manager",96092.665000,12070.382500
+"Theatre director",96050.650000,10758.560000
+"Psychologist, prison and probation services",95944.735556,13398.954444
+Midwife,95921.638000,8557.602000
+"Travel agency manager",95917.378889,6686.105556
+"Applications developer",95755.056000,14823.100000
+"Pensions consultant",95665.615000,6496.617000
+"Recycling officer",95614.028750,11285.441250
+"Senior tax professional/tax inspector",95609.362500,12965.331667
+"Administrator, arts",95560.200000,9403.791429
+"Dispensing optician",95479.799167,14446.777500
+"Surveyor, commercial/residential",95316.442000,6940.720000
+Animator,95298.200000,16045.203333
+"Seismic interpreter",95281.845556,11718.635556
+"Research scientist (physical sciences)",95236.322500,9582.741250
+"English as a foreign language teacher",95229.835455,11937.045455
+"Chartered accountant",95229.342500,10685.683750
+"Prison officer",95229.026250,7804.065000
+Dancer,95156.931429,12139.137143
+"Accountant, chartered management",95131.390000,10977.441000
+"Naval architect",95062.800000,8653.646667
+"Special educational needs teacher",94983.764000,10837.310000
+"Medical illustrator",94943.597273,11004.059091
+"Hospital pharmacist",94893.565455,10094.607273
+"Estate agent",94886.352500,11897.871250
+"Chartered certified accountant",94882.960000,6698.101250
+"Arts development officer",94829.852857,13192.155714
+"Control and instrumentation engineer",94826.105833,10536.620000
+Land,94507.935000,8499.633750
+"Engineer, technical sales",94493.372857,5675.205714
+"Horticulturist, amenity",94392.779091,7843.471818
+"Rural practice surveyor",94361.706154,9377.130000
+Cytogeneticist,94303.756667,8582.895000
+"Sales professional, IT",94289.007778,9909.096667
+"Games developer",94241.022500,12803.085000
+"Engineer, maintenance",94205.818333,10289.255000
+"Radiographer, therapeutic",94183.943846,9548.036923
+"Financial manager",94167.522308,10525.735385
+"Surveyor, rural practice",94086.131250,8201.532500
+"Social research officer, government",93958.720000,9856.052308
+"Information systems manager",93954.047000,7209.743000
+"Scientist, forensic",93943.273846,9210.128462
+Dealer,93834.700000,13857.720000
+"Insurance broker",93814.932857,9178.385714
+"Animal technologist",93720.449000,7959.799000
+"Tax adviser",93567.436667,6301.290000
+"Health and safety inspector",93519.875000,10489.296000
+"Corporate treasurer",93263.552000,9456.095000
+"Electrical engineer",93170.485000,10294.996667
+"Publishing copy",93143.486250,10324.820000
+Herpetologist,93069.615833,8321.865000
+"Production assistant, radio",93029.717143,7634.387143
+"Youth worker",93004.871111,11204.635556
+"Speech and language therapist",92938.116000,7765.789000
+"Broadcast engineer",92878.922500,8725.380833
+"Quarry manager",92761.996667,8648.646667
+Paramedic,92654.375714,9411.551429
+"Energy engineer",92489.913333,11356.333333
+"Therapist, sports",92045.547692,10790.052308
+"Textile designer",91973.043077,14738.719231
+"Public house manager",91972.322000,8901.386000
+"Scientist, physiological",91970.808333,8354.853333
+"Scientist, product/process development",91956.765000,8436.567500
+"Advice worker",91904.293333,10616.450833
+"Broadcast presenter",91791.490000,10399.072500
+"Scientist, audiological",91733.480000,9833.827500
+"Retail banker",91644.305000,9591.957500
+"Administrator, Civil Service",91564.331818,12298.256364
+"Product designer",91561.404167,9121.799167
+"Network engineer",91532.447778,7612.846667
+"Editorial assistant",91438.377273,13141.773636
+Printmaker,91158.724286,7903.920000
+"Air cabin crew",91144.917143,10324.228571
+"Clothing/textile technologist",91100.860000,6437.750000
+"Armed forces logistics/support/administrative officer",91005.886667,7838.345000
+Meteorologist,90956.301429,8622.324286
+"Designer, graphic",90896.372222,12144.574444
+"Journalist, magazine",90849.562500,8268.880000
+"Trade union research officer",90665.814167,12769.695000
+"Clinical cytogeneticist",90630.902727,10841.133636
+"Civil Service fast streamer",90628.556429,10343.574286
+"Hotel manager",90577.376000,9650.163000
+"Diplomatic Services operational officer",90441.847778,5750.108889
+"Historic buildings inspector/conservation officer",90293.223000,10184.378000
+"Production engineer",90284.973333,11594.545000
+"Learning mentor",90142.254615,8630.919231
+"Medical sales representative",90079.530000,6681.106667
+"Patent attorney",90075.117500,11062.592500
+"Psychologist, educational",90067.058750,8240.637500
+"Music tutor",90058.103750,12772.075000
+"Psychologist, sport and exercise",90039.915714,6832.458571
+"Public relations account executive",89939.765000,9389.674000
+"Health and safety adviser",89939.588182,8697.003636
+"Food technologist",89894.582308,12084.493077
+"Waste management officer",89881.998000,9717.830667
+"Engineer, civil (contracting)",89881.431429,11357.608571
+"Engineer, land",89770.415455,11130.285455
+"Investment analyst",89634.625000,9344.713333
+"Secretary, company",89621.527500,8800.617500
+"Horticultural consultant",89593.014444,10165.592222
+"Runner, broadcasting/film/video",89587.398333,8321.118333
+Counsellor,89564.085000,8069.894167
+"Community pharmacist",89478.110000,10352.618182
+"Tourist information centre manager",89107.428571,13125.968571
+"Engineer, automotive",89059.778333,10441.970000
+Chiropodist,89058.321818,11714.299091
+"Media planner",89040.146250,14874.272500
+"Biochemist, clinical",89002.857500,6482.143750
+"Market researcher",88878.648000,11045.426000
+"Quantity surveyor",88874.761000,7893.532000
+"Fast food restaurant manager",88753.921429,7601.058571
+"Therapist, nutritional",88703.723333,14146.283333
+"Special effects artist",88683.087500,9527.912500
+"Conference centre manager",88641.890000,10120.911667
+"Scientist, research (medical)",88502.907500,9363.177500
+"Engineer, site",88454.947500,13277.047500
+"Computer games developer",88309.842500,10738.507500
+"Pharmacist, hospital",88306.694444,8661.737778
+Dentist,88250.449231,11633.624615
+"Lecturer, higher education",88101.937000,10473.860000
+"Engineer, aeronautical",88062.095000,9148.927500
+"Minerals surveyor",88054.195556,13559.362222
+"Tax inspector",88035.950000,9910.960000
+"Jewellery designer",87966.850000,6964.223333
+"Early years teacher",87903.533333,8761.418889
+"Librarian, academic",87851.761000,9200.087000
+"Restaurant manager",87764.791111,8441.200000
+"Copywriter, advertising",87764.328889,12493.731111
+"Trade mark attorney",87761.902857,8012.015714
+"Engineer, manufacturing",87752.457500,6592.862500
+"Arts administrator",87711.890000,13621.241250
+"Doctor, general practice",87552.277778,11037.650000
+"Clinical research associate",87507.151667,12171.258333
+"Legal secretary",87484.268889,8076.736667
+"Doctor, hospital",87470.337143,11476.087143
+"Office manager",87463.460000,10812.579000
+"Volunteer coordinator",87349.826667,10646.236667
+"Petroleum engineer",87340.436667,10719.658333
+"Exhibitions officer, museum/gallery",87271.960000,7661.395000
+Ecologist,87257.946250,8695.082500
+"Advertising copywriter",87175.815000,12096.825000
+"Landscape architect",87153.330000,12925.556667
+"Programme researcher, broadcasting/film/video",87070.395833,11854.532500
+"Chief Executive Officer",87050.965000,9296.965000
+"Solicitor, Scotland",87026.750000,8261.918571
+"Chief Operating Officer",86879.868000,9294.070000
+"Hospital doctor",86773.144000,7773.880000
+"Press sub",86766.654444,8423.062222
+"Energy manager",86737.211429,11437.575714
+"Ship broker",86522.742000,9778.532000
+"Presenter, broadcasting",86456.707143,9783.440000
+"Development worker, international aid",86298.794000,7870.514000
+"Engineer, manufacturing systems",86286.991111,10013.766667
+"Occupational psychologist",86281.120000,10304.989000
+"Engineer, maintenance (IT)",86228.378750,9750.920000
+"Insurance claims handler",86224.945000,7977.263750
+"Biomedical engineer",86221.130000,8932.708000
+Geochemist,86216.625556,8173.332222
+"Investment banker, corporate",86100.297500,11644.343750
+"Software engineer",86006.477778,8363.290000
+Ergonomist,85825.551667,12124.402500
+Photographer,85791.438889,9019.162222
+"Farm manager",85484.392000,9057.155000
+"Publishing rights manager",85455.627500,6652.320000
+"Conservator, museum/gallery",85439.811250,9340.558750
+"Museum/gallery conservator",85401.872857,13270.140000
+"Quality manager",85393.567500,10723.377500
+"Freight forwarder",85334.743333,8446.746667
+"Technical brewer",85326.785714,13285.180000
+"Product/process development scientist",85257.535556,12313.516667
+"Geophysical data processor",85245.794286,13265.330000
+"Soil scientist",85172.195000,9924.873333
+"Air traffic controller",85165.337143,10927.062857
+Arboriculturist,85135.605556,10187.678889
+"Telecommunications researcher",85099.800714,7902.986429
+"Public affairs consultant",85078.452857,12117.440714
+"Information officer",85049.508182,14577.251818
+"Personnel officer",85033.310000,10323.820909
+"Surveyor, hydrographic",84975.572000,9395.586000
+"Occupational therapist",84881.330000,10571.383333
+"Engineering geologist",84843.853571,9515.614286
+"Teacher, English as a foreign language",84826.196000,9163.349000
+"Fisheries officer",84625.006667,13602.395000
+"Civil engineer, consulting",84621.442500,10815.610000
+"Engineer, control and instrumentation",84587.632500,10543.077500
+"Programmer, applications",84557.755714,12698.664286
+"Health physicist",84485.922857,6517.880000
+"Sound technician, broadcasting/film/video",84441.671667,13134.511667
+"Chief of Staff",84436.755000,11525.924000
+Copy,84427.658182,6799.920000
+Solicitor,84407.122000,10048.832000
+"IT sales professional",84365.491429,11598.515714
+"Editor, commissioning",84335.026923,8382.353846
+"Health promotion specialist",84173.901000,10595.956000
+"Electronics engineer",84165.922857,11613.242857
+"Trading standards officer",84129.326667,10107.695000
+"Journalist, newspaper",84075.995714,3997.104286
+"Engineer, building services",84073.296667,9822.243333
+"Designer, interior/spatial",84012.620000,12463.273333
+"Armed forces training and education officer",83993.456000,11598.708000
+"Research officer, trade union",83990.494286,7186.201429
+"Estate manager/land agent",83967.659091,8496.901818
+"Database administrator",83952.895000,11214.305000
+"Furniture conservator/restorer",83944.924545,7237.909091
+"Operational investment banker",83900.501429,12303.385714
+"Passenger transport manager",83733.857000,7892.287000
+Microbiologist,83713.710000,9848.233750
+"Engineer, electronics",83693.444667,10395.068000
+"Careers information officer",83581.278750,7200.103750
+"Heritage manager",83562.710000,6352.636000
+"Marine scientist",83359.163333,11729.361111
+"Fish farm manager",83350.950833,9982.832500
+"Chartered legal executive (England and Wales)",83349.169167,7890.223333
+"Conservation officer, nature",83254.723333,11368.127500
+"Clinical psychologist",83237.270000,8895.702000
+"Administrator, sports",83209.505385,11729.839231
+"Retail manager",83179.480000,7097.800000
+"Public librarian",82978.224286,6581.834286
+"Engineer, agricultural",82959.445556,11207.398889
+"Insurance risk surveyor",82951.628333,7932.211667
+"Designer, furniture",82889.550000,7860.275714
+"Interior and spatial designer",82873.881538,12550.833077
+Actuary,82857.830000,8662.230000
+"Sports development officer",82811.871818,9681.840000
+"Theatre manager",82762.975000,11274.660000
+"Surveyor, mining",82657.710000,13140.233000
+"Museum/gallery exhibitions officer",82569.768750,8280.515000
+"Physicist, medical",82562.672500,9051.517500
+"Clinical biochemist",82540.968000,12635.984000
+"Personal assistant",82531.467778,11522.176667
+"Clinical molecular geneticist",82425.925333,9829.906000
+"Operational researcher",82416.578889,11320.900000
+"Mechanical engineer",82388.957500,9413.272500
+"Production assistant, television",82309.825000,10200.240000
+"Higher education careers adviser",82281.712222,10349.594444
+"Records manager",82241.626667,10139.591111
+Geoscientist,82116.453636,11724.808182
+"Therapist, art",82042.047500,10982.993750
+Surgeon,81952.188750,13692.572500
+"Scientist, clinical (histocompatibility and immunogenetics)",81903.305000,8175.271000
+"Child psychotherapist",81807.971111,10060.520000
+"Engineer, energy",81702.399000,9024.860000
+"Garment/textile technologist",81695.012308,10393.446923
+"Designer, jewellery",81509.800000,9872.588571
+Homeopath,81352.892857,10033.907143
+"Fashion designer",81230.503333,7578.116667
+"Race relations officer",81219.193077,10693.500000
+"Commercial horticulturist",81214.633333,9604.881667
+"Health service manager",81202.195714,12453.240000
+"Adult guidance worker",81183.768889,11674.753333
+"Catering manager",81167.722222,10581.456667
+"Programmer, systems",81057.648000,7577.198000
+"Equities trader",80994.222667,7072.598667
+Statistician,80983.827143,11070.300000
+"Accountant, chartered certified",80851.026667,8255.343333
+"Therapist, occupational",80822.514000,9513.152000
+"Set designer",80789.217500,10727.990000
+"Chemist, analytical",80757.156471,9611.717647
+"Administrator, charities/voluntary organisations",80739.453846,9134.674615
+Haematologist,80674.602000,6630.620000
+"Medical physicist",80671.382222,11266.097778
+"Teacher, music",80670.633333,9525.613333
+"Mental health nurse",80592.660000,8819.215714
+Archaeologist,80554.098125,9711.651250
+"Education administrator",80551.732857,9743.087143
+"Geographical information systems officer",80537.363000,11329.390000
+Podiatrist,80523.304444,7508.898889
+"Advertising account planner",80501.118889,10643.137778
+"Water engineer",80478.083333,8623.710000
+"Engineer, chemical",80418.394286,9918.592857
+"Buyer, retail",80366.633333,7881.851111
+"Surveyor, quantity",80350.818333,6672.076667
+"Patent examiner",80313.055556,10980.198889
+"Intelligence analyst",80310.947143,11495.537143
+"Public relations officer",80294.330000,11179.373750
+"Press photographer",80223.458571,9156.718571
+"Environmental education officer",80200.816667,10041.033333
+Writer,80163.598000,8401.666000
+"Pension scheme manager",80100.923000,9920.098000
+"Designer, exhibition/display",80047.378750,11836.140000
+"Contracting civil engineer",80007.878889,11106.771111
+Barrister,80006.433000,10638.181000
+"Health visitor",79982.456429,9566.835000
+"Music therapist",79957.666667,14880.274444
+"Social researcher",79903.604000,9293.740000
+Ophthalmologist,79890.926000,12479.914000
+"Tourism officer",79879.858750,8195.577500
+Actor,79879.256250,8161.037500
+"Art therapist",79820.381667,11296.950000
+Warden/ranger,79810.332500,9919.816250
+"Charity officer",79800.696667,10891.868889
+"Marketing executive",79791.460000,12003.514167
+"Plant breeder/geneticist",79756.452222,8768.302222
+"Research officer, government",79738.688000,10530.342000
+Cartographer,79725.373077,8812.432308
+"Media buyer",79594.170000,9623.308571
+Lobbyist,79582.080000,8244.151111
+"Analytical chemist",79470.051538,9740.756154
+"Embryologist, clinical",79413.480000,11383.682857
+"Psychotherapist, child",79411.252000,11182.211000
+Pathologist,79369.894286,9625.070000
+"Armed forces technical officer",79369.606364,12993.194545
+Herbalist,79188.815000,9924.911000
+Archivist,79141.109000,11725.951000
+"Chartered management accountant",79006.235385,9906.398462
+"Broadcast journalist",78949.836364,12922.817273
+"Nurse, mental health",78933.798000,6955.170000
+Lexicographer,78879.480000,6248.911250
+"Television floor manager",78863.275000,9613.591250
+"Production manager",78857.577273,9743.993636
+Oceanographer,78840.717000,9869.933000
+"Housing manager/officer",78796.032000,8090.735000
+"Audiological scientist",78722.008000,7002.680000
+"Systems analyst",78599.600000,9243.678333
+"Administrator, education",78522.530769,6671.781538
+"Charity fundraiser",78434.358750,8964.091250
+"Local government officer",78330.630000,12353.231538
+"Learning disability nurse",78324.709091,9731.216364
+Comptroller,78313.972000,7675.970000
+Dietitian,78266.083750,15265.877500
+"Sports coach",78220.629000,16499.731000
+"Therapist, music",78025.977143,10576.041429
+"Education officer, museum",77974.442000,11009.647000
+"Tree surgeon",77882.570000,11977.507500
+"Research scientist (maths)",77843.904545,11590.356364
+"Television/film/video producer",77807.122000,11865.668000
+Hydrogeologist,77744.280909,12515.659091
+"Outdoor activities/education manager",77700.980909,7078.796364
+"Animal nutritionist",77655.070000,9708.913636
+"Engineer, broadcasting (operations)",77511.160000,11365.738000
+"Colour technologist",77366.398750,12637.333750
+Illustrator,77177.673571,10712.547857
+"Structural engineer",77165.225556,8544.390000
+Interpreter,77134.816000,7497.490000
+Immunologist,76773.272727,7821.130000
+"Leisure centre manager",76728.138750,9852.340000
+"Accommodation manager",76651.812500,8395.372500
+"Community education officer",76648.437500,9485.178333
+"Television production assistant",76605.984000,10589.011000
+"Community development worker",76552.475556,8029.192222
+"Forest/woodland manager",76389.838571,6625.087143
+"TEFL teacher",76325.540714,7991.403571
+"Consulting civil engineer",76251.015000,8537.587500
+"Airline pilot",76216.031667,10421.094167
+"Accountant, chartered",76189.692000,8418.740000
+"Counselling psychologist",76188.414444,9969.483333
+"Industrial buyer",76182.705556,14296.452222
+"Systems developer",76045.222000,11265.282000
+"Engineer, production",75939.904286,9885.518571
+"Lecturer, further education",75811.591250,14101.886250
+"International aid/development worker",75761.552222,8012.611111
+"Chartered loss adjuster",75755.691250,9513.523750
+"Scientist, research (maths)",75642.415000,6515.356667
+"Research scientist (life sciences)",75524.121429,11195.305714
+Dramatherapist,75188.816250,12097.631250
+"Aid worker",75156.807500,12373.350000
+Gaffer,75059.495556,9352.507222
+Bookseller,74958.341111,9435.112222
+"Data processing manager",74873.956667,9159.093333
+"Nurse, learning disability",74667.665000,12322.865000
+"Surveyor, planning and development",74631.470000,13513.735000
+"Teacher, adult education",74476.060000,14946.855714
+"Drilling engineer",74381.995714,11303.028571
+"Loss adjuster, chartered",74241.443333,12697.827500
+"Sales promotion account executive",74167.825000,7626.270000
+"Logistics and distribution manager",73849.180000,11967.993333
+"Surveyor, minerals",73812.112857,9612.144286
+"Land/geomatics surveyor",73798.858750,7402.302500
+"Designer, blown glass/stained glass",73690.388750,14592.970000
+"Education officer, environmental",73669.272000,10192.908000
+"Merchant navy officer",73524.253000,8426.116000
+"Brewing technologist",73321.090000,8404.635714
+"Manufacturing engineer",73320.902857,10479.184286
+"Police officer",73296.274000,9659.729000
+"Chief Technology Officer",73053.628571,7172.502857
+Architect,72878.365556,8242.513333
+"Therapist, speech and language",72685.347273,10547.849091
+"Chief Financial Officer",72663.268182,8927.887273
+"Civil Service administrator",72480.576667,8229.585000
+"Glass blower/designer",72405.261000,9060.921000
+"Materials engineer",72197.923750,4795.587500
+"Forensic scientist",72076.747500,6893.906250
+"Radio broadcast assistant",72038.182000,11566.321000
+"Equality and diversity officer",71899.107500,12867.477500
+"Geologist, wellsite",71885.348889,9500.543333
+"Training and development officer",71807.802500,10102.529167
+"Professor Emeritus",71747.275000,5647.878333
+"Museum/gallery curator",71615.526250,10095.327500
+"Chief Marketing Officer",71563.874444,11032.941111
+"Research scientist (medical)",71360.923333,9098.601667
+"Management consultant",71255.065000,13580.160000
+"Museum education officer",71156.646000,10742.729000
+"Medical technical officer",71018.905000,11328.743000
+"Designer, television/film set",71018.447143,11277.947143
+Hydrologist,70969.613750,11740.625000
+"Print production planner",70968.098889,11095.044444
+"Financial risk analyst",70938.242857,6700.305714
+"Amenity horticulturist",70673.812857,7936.792857
+"Teacher, early years/pre",70559.462143,10698.267857
+"Journalist, broadcasting",70154.778750,6874.235000
+"Psychologist, counselling",70022.873000,8461.438000
+"Sports administrator",69796.278182,10861.090909
+"Diagnostic radiographer",69608.430000,11059.490000
+"Psychologist, clinical",69545.895556,6308.435556
+"Editor, film/video",69537.371818,10513.892727
+"Therapeutic radiographer",69473.519231,6726.008462
+"Psychologist, occupational",69461.628000,12394.540000
+Orthoptist,69398.932857,10055.490000
+Metallurgist,69388.896667,11457.041111
+"Advertising account executive",69355.141250,8446.962500
+"Occupational hygienist",69224.405556,13527.242222
+"Corporate investment banker",69113.535556,9193.918889
+"Film/video editor",68826.553750,10960.828750
+"Tour manager",68764.252500,10534.250000
+"Futures trader",68708.325714,11850.520000
+"Psychiatric nurse",68680.396667,10813.295556
+"Nutritional therapist",68661.305000,11519.333750
+"Planning and development surveyor",68642.953333,6967.263333
+"Scientist, water quality",68164.836667,6207.570000
+Banker,67834.834167,11240.950833
+"Radiation protection practitioner",67775.281667,7135.048333
+"Video editor",67754.682000,9433.042000
+Artist,67494.763846,7111.691538
+Lawyer,67451.520000,11501.926000
+"Producer, radio",67390.955000,6721.548000
+"Nurse, adult",67074.507778,12351.708889
+Contractor,66940.186875,10488.125000
+"Further education lecturer",66893.615455,9540.949091
+"Lighting technician, broadcasting/film/video",66878.447143,12617.228571
+"Furniture designer",66791.927000,9738.686000
+Make,66461.691667,11279.045000
+"IT consultant",66285.745000,8785.630000
+"Town planner",66189.560000,7865.455714
+"Radiographer, diagnostic",66142.428889,9997.232222
+"Teacher, special educational needs",65984.166667,10671.813333
+"Veterinary surgeon",65589.506667,15273.726667
+"Building control surveyor",65537.245714,13690.411429
+"Politician's assistant",65334.736667,7810.973333
+"Chief Strategy Officer",65152.398889,10352.011111
+Translator,64992.253333,13265.516667
+Astronomer,64736.832500,10780.196250
+"Location manager",64646.245714,10196.240000
+"IT technical support officer",64554.283333,9568.696667
+"Librarian, public",64446.284444,9834.180000
+"Ambulance person",63845.981000,9381.958000
+"Call centre manager",63574.818000,8707.796000
+"Ceramics designer",63119.542222,8364.881111
+"Education officer, community",62936.066250,10396.646250
+"Conservation officer, historic buildings",62609.762500,5342.726250
+"Geophysicist/field seismologist",62540.720000,10262.472727
+"Best boy",61908.908000,9695.774000
+"Editor, magazine features",61613.410000,8030.870000
+"Environmental health practitioner",61569.100000,9318.643333
+"Scientist, marine",61274.313333,8577.633333
+"Commissioning editor",61064.036667,18052.383333
+"Financial controller",60961.813333,8863.608889
+"Warehouse manager",60592.980000,10573.725000
+"Optician, dispensing",60148.957273,11982.476364
+"Designer, industrial/product",60087.243750,12883.503750
+"Manufacturing systems engineer",59878.472500,11501.737500
+"Surveyor, land/geomatics",59795.596667,9552.731667
+"Surveyor, building",59685.295000,13269.347500
+"Medical secretary",58848.504444,11412.285556
+"Surveyor, building control",58244.592857,7424.581429
+Sub,58040.804545,15229.108182
+"Hydrographic surveyor",57986.970000,16478.965000
+"Producer, television/film/video",57781.260000,5944.470000
+"Agricultural consultant",57512.412222,11676.094444
+"Insurance underwriter",57431.165000,10431.198750
+Toxicologist,56815.206000,7915.647000
+"Biomedical scientist",56483.538333,6835.905000
+"Web designer",55781.051667,12849.785833
+"Financial adviser",53904.472500,8668.532500
+"Armed forces operational officer",51584.138571,14689.560000
+"Exercise physiologist",51483.544000,10702.122000
+"Automotive engineer",50971.386667,8404.163333
+"Agricultural engineer",50739.920000,8689.087500
+"Pilot, airline",50458.761429,12131.235714
+"Teaching laboratory technician",49743.354000,8546.012000
+"Development worker, community",48259.395000,8896.100000
+"Wellsite geologist",47168.130000,15834.650000
+"Civil engineer, contracting",46675.950000,14523.222500
+"Therapist, horticultural",46276.090000,7619.830000
+"Pharmacist, community",42941.566667,9547.380000
+"Risk manager",42368.115000,6900.760000
+"Exhibition designer",33649.926667,14203.160000
