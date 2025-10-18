@@ -1,10 +1,11 @@
 # Banking-Transaction-Analysis-Excel-MySQL-
 Analyzed customer transactions using MySQL + Excel to uncover spending trends, fraud patterns, and income insights. Created dashboards to visualize total spend, top merchants, payment methods, and age-wise spending for better financial decision-making.
+
+
 <img width="1881" height="922" alt="Bank 1" src="https://github.com/user-attachments/assets/d6cc57c9-6c54-4291-9141-67f9d8b752b0" />
 <img width="1909" height="915" alt="Bank 2" src="https://github.com/user-attachments/assets/6541e17a-3f42-47b4-ae16-49398de08d6a" />
 
 
-Bank Transaction Analysis Dashboard
 
 I recently built a Bank Transaction Dashboard using Excel and SQL, designed to analyze and visualize key financial insights from large-scale transaction data.
 
