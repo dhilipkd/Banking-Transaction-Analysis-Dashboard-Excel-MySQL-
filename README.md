@@ -1,4 +1,4 @@
-<img width="1909" height="915" alt="Bank 2" src="https://github.com/user-attachments/assets/e6666ca2-5084-4f52-a61a-2fe0f8269d3d" /># Banking-Transaction-Analysis-Excel-MySQL-
+# Banking-Transaction-Analysis-Excel-MySQL-
 Analyzed customer transactions using MySQL + Excel to uncover spending trends, fraud patterns, and income insights. Created dashboards to visualize total spend, top merchants, payment methods, and age-wise spending for better financial decision-making.
 <img width="1881" height="922" alt="Bank 1" src="https://github.com/user-attachments/assets/d6cc57c9-6c54-4291-9141-67f9d8b752b0" />
 <img width="1909" height="915" alt="Bank 2" src="https://github.com/user-attachments/assets/6541e17a-3f42-47b4-ae16-49398de08d6a" />
@@ -31,4 +31,3 @@ Delivered a two-page interactive dashboard for clear, data-driven decision-makin
 
 💡 This project helped me strengthen my data analysis, SQL querying, and Excel dashboard design skills — turning raw data into actionable financial insights.
 
-#DataAnalytics #ExcelDashboard #SQL #BankingAnalytics #FinancialData #PowerOfData #DataVisualization #DataAnalyst #AIEngineer
