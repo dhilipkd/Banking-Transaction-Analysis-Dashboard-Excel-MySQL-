@@ -11,13 +11,21 @@ Analyzed customer transactions using MySQL + Excel to uncover spending trends, f
 I recently built a Bank Transaction Dashboard using Excel and SQL, designed to analyze and visualize key financial insights from large-scale transaction data.
 
 ### Key Insights Covered:
+
 ✅ Most Common Payment Methods
+
 ✅ Transaction Trends by Month
+
 ✅ Top 10 Merchants by Transaction Amount
+
 ✅ Average Spending by Gender
+
 ✅ City-wise Average Income
+
 ✅ Fraud vs Non-Fraud Transactions
+
 ✅ Age Group Spending Patterns
+
 ✅ Average Income vs Average Balance by Occupation
 
 ### Tools & Techniques Used:
